@@ -1,0 +1,12 @@
+{
+  "name": "travis-ci-first-try",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test_index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
